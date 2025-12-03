@@ -1,0 +1,2936 @@
+{
+    "system_info": {
+        "System": "Windows",
+        "Node Name": "DESKTOP-07C8K6R",
+        "Release": "11",
+        "Version": "10.0.26100",
+        "Machine": "AMD64",
+        "Processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel"
+    },
+    "processes": [
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "username": "NT AUTHORITY\\SYSTEM"
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "username": "NT AUTHORITY\\SYSTEM"
+        },
+        {
+            "pid": 188,
+            "name": "",
+            "username": null
+        },
+        {
+            "pid": 232,
+            "name": "Registry",
+            "username": null
+        },
+        {
+            "pid": 388,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 676,
+            "name": "csrss.exe",
+            "username": null
+        },
+        {
+            "pid": 700,
+            "name": "smss.exe",
+            "username": null
+        },
+        {
+            "pid": 1076,
+            "name": "wininit.exe",
+            "username": null
+        },
+        {
+            "pid": 1084,
+            "name": "csrss.exe",
+            "username": null
+        },
+        {
+            "pid": 1224,
+            "name": "services.exe",
+            "username": null
+        },
+        {
+            "pid": 1232,
+            "name": "LsaIso.exe",
+            "username": null
+        },
+        {
+            "pid": 1248,
+            "name": "backgroundTaskHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 1252,
+            "name": "lsass.exe",
+            "username": null
+        },
+        {
+            "pid": 1400,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1428,
+            "name": "fontdrvhost.exe",
+            "username": null
+        },
+        {
+            "pid": 1444,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 1504,
+            "name": "WUDFHost.exe",
+            "username": null
+        },
+        {
+            "pid": 1568,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1624,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1696,
+            "name": "WUDFHost.exe",
+            "username": null
+        },
+        {
+            "pid": 1792,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 1824,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1864,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1880,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1932,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1984,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1992,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2008,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2060,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2124,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2132,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2148,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2156,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2288,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2328,
+            "name": "IntelCpHDCPSvc.exe",
+            "username": null
+        },
+        {
+            "pid": 2336,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2352,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2384,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2428,
+            "name": "CrossDeviceResume.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 2508,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2660,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2692,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2824,
+            "name": "wlanext.exe",
+            "username": null
+        },
+        {
+            "pid": 2844,
+            "name": "gamingservices.exe",
+            "username": null
+        },
+        {
+            "pid": 2872,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3064,
+            "name": "UserOOBEBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3156,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3184,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3228,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3236,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3244,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3356,
+            "name": "MemCompression",
+            "username": null
+        },
+        {
+            "pid": 3396,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3452,
+            "name": "taskhostw.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3472,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3480,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3516,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3524,
+            "name": "OneDrive.Sync.Service.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3568,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3608,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3640,
+            "name": "SearchHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3656,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3664,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3704,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3776,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3808,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3884,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3920,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3968,
+            "name": "spoolsv.exe",
+            "username": null
+        },
+        {
+            "pid": 3996,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4212,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4236,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4244,
+            "name": "IntelAudioService.exe",
+            "username": null
+        },
+        {
+            "pid": 4260,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4268,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4280,
+            "name": "OfficeClickToRun.exe",
+            "username": null
+        },
+        {
+            "pid": 4308,
+            "name": "ipf_uf.exe",
+            "username": null
+        },
+        {
+            "pid": 4316,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4324,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4332,
+            "name": "jhi_service.exe",
+            "username": null
+        },
+        {
+            "pid": 4344,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4364,
+            "name": "MpDefenderCoreService.exe",
+            "username": null
+        },
+        {
+            "pid": 4380,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4432,
+            "name": "MsMpEng.exe",
+            "username": null
+        },
+        {
+            "pid": 4440,
+            "name": "WMIRegistrationService.exe",
+            "username": null
+        },
+        {
+            "pid": 4456,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4476,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4556,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4560,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4728,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4804,
+            "name": "browser_assistant.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4900,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5132,
+            "name": "OpenConsole.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 5140,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5260,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5512,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5528,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 5600,
+            "name": "Widgets.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 5620,
+            "name": "SearchProtocolHost.exe",
+            "username": null
+        },
+        {
+            "pid": 5776,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5864,
+            "name": "WmiPrvSE.exe",
+            "username": null
+        },
+        {
+            "pid": 5908,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 6160,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 6220,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 6512,
+            "name": "SecurityHealthService.exe",
+            "username": null
+        },
+        {
+            "pid": 6580,
+            "name": "gamingservicesnet.exe",
+            "username": null
+        },
+        {
+            "pid": 6708,
+            "name": "python.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 7304,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 7504,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 7676,
+            "name": "AggregatorHost.exe",
+            "username": null
+        },
+        {
+            "pid": 7852,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8060,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 8196,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8340,
+            "name": "dasHost.exe",
+            "username": null
+        },
+        {
+            "pid": 8592,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8616,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8664,
+            "name": "NisSrv.exe",
+            "username": null
+        },
+        {
+            "pid": 8716,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8756,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8856,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8892,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 8944,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 9320,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9372,
+            "name": "dasHost.exe",
+            "username": null
+        },
+        {
+            "pid": 9388,
+            "name": "CrossDeviceService.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9568,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9604,
+            "name": "fontdrvhost.exe",
+            "username": null
+        },
+        {
+            "pid": 9680,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 9752,
+            "name": "ctfmon.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9800,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9804,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9896,
+            "name": "pet.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10020,
+            "name": "unsecapp.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10116,
+            "name": "SearchIndexer.exe",
+            "username": null
+        },
+        {
+            "pid": 10364,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 10448,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10472,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10512,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10556,
+            "name": "conhost.exe",
+            "username": null
+        },
+        {
+            "pid": 10664,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10732,
+            "name": "browser_assistant.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10752,
+            "name": "ipf_helper.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10856,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11092,
+            "name": "ShellHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11116,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 11164,
+            "name": "ShellExperienceHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11248,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11356,
+            "name": "IntelGraphicsSoftware.Service.exe",
+            "username": null
+        },
+        {
+            "pid": 11492,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11516,
+            "name": "WidgetService.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11880,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11888,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 11944,
+            "name": "dwm.exe",
+            "username": null
+        },
+        {
+            "pid": 11948,
+            "name": "XboxPcAppFT.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11952,
+            "name": "FileCoAuth.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11964,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12004,
+            "name": "backgroundTaskHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12076,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12144,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 12260,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12348,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12420,
+            "name": "XboxPcApp.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12452,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12688,
+            "name": "csrss.exe",
+            "username": null
+        },
+        {
+            "pid": 12692,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12704,
+            "name": "PresentMonService.exe",
+            "username": null
+        },
+        {
+            "pid": 12772,
+            "name": "backgroundTaskHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12840,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12940,
+            "name": "explorer.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13020,
+            "name": "TextInputHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13140,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13164,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 13220,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 13264,
+            "name": "PhoneExperienceHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13340,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13400,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13460,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13472,
+            "name": "sihost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13508,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 13572,
+            "name": "SecurityHealthSystray.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13636,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13664,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13936,
+            "name": "LockApp.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 14460,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 14560,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 14612,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 14644,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 14656,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 14932,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 15128,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 15368,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 15548,
+            "name": "winlogon.exe",
+            "username": null
+        },
+        {
+            "pid": 15564,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 15600,
+            "name": "cmd.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 15632,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16100,
+            "name": "SystemSettings.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16132,
+            "name": "cmd.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16296,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 16312,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16344,
+            "name": "XboxPcTray.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16420,
+            "name": "audiodg.exe",
+            "username": null
+        },
+        {
+            "pid": 16428,
+            "name": "Code.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16592,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16808,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16932,
+            "name": "svchost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17124,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17204,
+            "name": "chrome.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17216,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17228,
+            "name": "StartMenuExperienceHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17296,
+            "name": "ApplicationFrameHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        }
+    ],
+    "suspicious_processes": [
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "username": "NT AUTHORITY\\SYSTEM"
+        },
+        {
+            "pid": 188,
+            "name": "",
+            "username": null
+        },
+        {
+            "pid": 232,
+            "name": "Registry",
+            "username": null
+        },
+        {
+            "pid": 676,
+            "name": "csrss.exe",
+            "username": null
+        },
+        {
+            "pid": 700,
+            "name": "smss.exe",
+            "username": null
+        },
+        {
+            "pid": 1076,
+            "name": "wininit.exe",
+            "username": null
+        },
+        {
+            "pid": 1084,
+            "name": "csrss.exe",
+            "username": null
+        },
+        {
+            "pid": 1224,
+            "name": "services.exe",
+            "username": null
+        },
+        {
+            "pid": 1232,
+            "name": "LsaIso.exe",
+            "username": null
+        },
+        {
+            "pid": 1248,
+            "name": "backgroundTaskHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 1252,
+            "name": "lsass.exe",
+            "username": null
+        },
+        {
+            "pid": 1400,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1428,
+            "name": "fontdrvhost.exe",
+            "username": null
+        },
+        {
+            "pid": 1504,
+            "name": "WUDFHost.exe",
+            "username": null
+        },
+        {
+            "pid": 1568,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1624,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1696,
+            "name": "WUDFHost.exe",
+            "username": null
+        },
+        {
+            "pid": 1824,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1864,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1880,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1932,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1984,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 1992,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2008,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2060,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2124,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2132,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2148,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2156,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2288,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2328,
+            "name": "IntelCpHDCPSvc.exe",
+            "username": null
+        },
+        {
+            "pid": 2336,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2352,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2384,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2428,
+            "name": "CrossDeviceResume.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 2508,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2660,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2692,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 2824,
+            "name": "wlanext.exe",
+            "username": null
+        },
+        {
+            "pid": 2844,
+            "name": "gamingservices.exe",
+            "username": null
+        },
+        {
+            "pid": 2872,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3064,
+            "name": "UserOOBEBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3184,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3228,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3236,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3244,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3356,
+            "name": "MemCompression",
+            "username": null
+        },
+        {
+            "pid": 3396,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3452,
+            "name": "taskhostw.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3472,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3480,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3516,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3524,
+            "name": "OneDrive.Sync.Service.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3568,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3608,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3640,
+            "name": "SearchHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 3656,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3776,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3808,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3884,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3920,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 3968,
+            "name": "spoolsv.exe",
+            "username": null
+        },
+        {
+            "pid": 3996,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4212,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4236,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4244,
+            "name": "IntelAudioService.exe",
+            "username": null
+        },
+        {
+            "pid": 4260,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4268,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4280,
+            "name": "OfficeClickToRun.exe",
+            "username": null
+        },
+        {
+            "pid": 4308,
+            "name": "ipf_uf.exe",
+            "username": null
+        },
+        {
+            "pid": 4316,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4324,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4332,
+            "name": "jhi_service.exe",
+            "username": null
+        },
+        {
+            "pid": 4344,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4364,
+            "name": "MpDefenderCoreService.exe",
+            "username": null
+        },
+        {
+            "pid": 4380,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4432,
+            "name": "MsMpEng.exe",
+            "username": null
+        },
+        {
+            "pid": 4440,
+            "name": "WMIRegistrationService.exe",
+            "username": null
+        },
+        {
+            "pid": 4456,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4476,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 4728,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4804,
+            "name": "browser_assistant.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 4900,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5132,
+            "name": "OpenConsole.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 5140,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5260,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5512,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5600,
+            "name": "Widgets.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 5620,
+            "name": "SearchProtocolHost.exe",
+            "username": null
+        },
+        {
+            "pid": 5776,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 5864,
+            "name": "WmiPrvSE.exe",
+            "username": null
+        },
+        {
+            "pid": 6220,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 6512,
+            "name": "SecurityHealthService.exe",
+            "username": null
+        },
+        {
+            "pid": 6580,
+            "name": "gamingservicesnet.exe",
+            "username": null
+        },
+        {
+            "pid": 6708,
+            "name": "python.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 7304,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 7504,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 7676,
+            "name": "AggregatorHost.exe",
+            "username": null
+        },
+        {
+            "pid": 7852,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8196,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8340,
+            "name": "dasHost.exe",
+            "username": null
+        },
+        {
+            "pid": 8592,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8616,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8664,
+            "name": "NisSrv.exe",
+            "username": null
+        },
+        {
+            "pid": 8716,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8756,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8856,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 8892,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 8944,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 9372,
+            "name": "dasHost.exe",
+            "username": null
+        },
+        {
+            "pid": 9388,
+            "name": "CrossDeviceService.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9604,
+            "name": "fontdrvhost.exe",
+            "username": null
+        },
+        {
+            "pid": 9680,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 9752,
+            "name": "ctfmon.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9800,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 9896,
+            "name": "pet.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10020,
+            "name": "unsecapp.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10116,
+            "name": "SearchIndexer.exe",
+            "username": null
+        },
+        {
+            "pid": 10364,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 10512,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10556,
+            "name": "conhost.exe",
+            "username": null
+        },
+        {
+            "pid": 10732,
+            "name": "browser_assistant.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 10752,
+            "name": "ipf_helper.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11092,
+            "name": "ShellHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11116,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 11164,
+            "name": "ShellExperienceHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11248,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11356,
+            "name": "IntelGraphicsSoftware.Service.exe",
+            "username": null
+        },
+        {
+            "pid": 11516,
+            "name": "WidgetService.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11888,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 11944,
+            "name": "dwm.exe",
+            "username": null
+        },
+        {
+            "pid": 11948,
+            "name": "XboxPcAppFT.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 11952,
+            "name": "FileCoAuth.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12004,
+            "name": "backgroundTaskHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12076,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12144,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 12420,
+            "name": "XboxPcApp.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12452,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12688,
+            "name": "csrss.exe",
+            "username": null
+        },
+        {
+            "pid": 12692,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 12704,
+            "name": "PresentMonService.exe",
+            "username": null
+        },
+        {
+            "pid": 12772,
+            "name": "backgroundTaskHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13020,
+            "name": "TextInputHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13164,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 13220,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 13264,
+            "name": "PhoneExperienceHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13472,
+            "name": "sihost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13508,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 13572,
+            "name": "SecurityHealthSystray.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 13936,
+            "name": "LockApp.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 14656,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 15368,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 15548,
+            "name": "winlogon.exe",
+            "username": null
+        },
+        {
+            "pid": 15564,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 15600,
+            "name": "cmd.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16100,
+            "name": "SystemSettings.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16132,
+            "name": "cmd.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16296,
+            "name": "svchost.exe",
+            "username": null
+        },
+        {
+            "pid": 16312,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16344,
+            "name": "XboxPcTray.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 16420,
+            "name": "audiodg.exe",
+            "username": null
+        },
+        {
+            "pid": 16592,
+            "name": "RuntimeBroker.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17124,
+            "name": "conhost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17216,
+            "name": "msedgewebview2.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17228,
+            "name": "StartMenuExperienceHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        },
+        {
+            "pid": 17296,
+            "name": "ApplicationFrameHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        }
+    ],
+    "started_processes": [
+        {
+            "pid": 1248,
+            "name": "backgroundTaskHost.exe",
+            "username": "DESKTOP-07C8K6R\\Admin"
+        }
+    ],
+    "stopped_processes": [],
+    "network_connections": [
+        {
+            "pid": 4,
+            "laddr": "192.168.56.1:137",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 2156,
+            "laddr": "0.0.0.0:5355",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:60433",
+            "raddr": "2a00:1450:4025:c01::bc:5228",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 1568,
+            "laddr": "0.0.0.0:135",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:49674",
+            "raddr": "162.159.136.234:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 0,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:56929",
+            "raddr": "2600:1901:0:47fc:::443",
+            "status": "TIME_WAIT"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:63103",
+            "raddr": "3.213.77.101:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 4432,
+            "laddr": "192.168.1.16:58370",
+            "raddr": "48.209.108.40:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:57785",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 2156,
+            "laddr": "0.0.0.0:5353",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 11116,
+            "laddr": ":::7680",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 13508,
+            "laddr": "2a01:110f:421c:2400:7af1:69bf:acdc:23f2:2177",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:61711",
+            "raddr": "2606:4700::6810:6770:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:55927",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:49341",
+            "raddr": "2a04:4e42:4b::760:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:61259",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:59370",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 0,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:53767",
+            "raddr": "2a00:1450:4025:804::68:443",
+            "status": "TIME_WAIT"
+        },
+        {
+            "pid": 13508,
+            "laddr": "192.168.1.16:2177",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:65109",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 0,
+            "laddr": "192.168.1.16:52590",
+            "raddr": "20.54.232.160:443",
+            "status": "TIME_WAIT"
+        },
+        {
+            "pid": 1076,
+            "laddr": "0.0.0.0:49665",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:58362",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:54996",
+            "raddr": "2a06:98c1:310b::ac40:9bd1:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 1252,
+            "laddr": ":::49664",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:61116",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 0,
+            "laddr": "192.168.1.16:55976",
+            "raddr": "3.174.230.5:443",
+            "status": "TIME_WAIT"
+        },
+        {
+            "pid": 2156,
+            "laddr": ":::58119",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:61452",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:55220",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:64897",
+            "raddr": "3.209.78.116:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 7504,
+            "laddr": "0.0.0.0:5050",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 13508,
+            "laddr": "fe80::41ca:5b70:e47d:68ee:2177",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:55999",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:64180",
+            "raddr": "2600:1901:1:ca7:::443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:54935",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 15368,
+            "laddr": "fe80::41ca:5b70:e47d:68ee:1900",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:60011",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 3524,
+            "laddr": "::1:42050",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:50682",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:50592",
+            "raddr": "2a04:4e42:8e::763:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 3184,
+            "laddr": "0.0.0.0:49667",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": ":::5353",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:58383",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:63859",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:59490",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 1504,
+            "laddr": "127.0.0.1:49671",
+            "raddr": "127.0.0.1:49670",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 2060,
+            "laddr": ":::49666",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:58579",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:54169",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:57121",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:50208",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 7504,
+            "laddr": "0.0.0.0:5040",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:50547",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 11948,
+            "laddr": "192.168.1.16:49677",
+            "raddr": "20.201.200.56:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:55948",
+            "raddr": "2a04:4e42:8d::763:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:49673",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:54786",
+            "raddr": "2a06:98c1:3100::6812:202f:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:56309",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 13508,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:2177",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 8944,
+            "laddr": "0.0.0.0:123",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 2156,
+            "laddr": ":::58640",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 11116,
+            "laddr": "0.0.0.0:7680",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 8944,
+            "laddr": ":::123",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:59683",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 2156,
+            "laddr": ":::5355",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:57710",
+            "raddr": "2a04:4e42:4b::760:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 15368,
+            "laddr": "192.168.56.1:63622",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:59714",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:59019",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:52703",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "0.0.0.0:49255",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:64680",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 15368,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:1900",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:55676",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 2156,
+            "laddr": ":::5353",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:51105",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:51059",
+            "raddr": "2a04:4e42:6f::760:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:58859",
+            "raddr": "2600:1901:0:47fc:::443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 15368,
+            "laddr": "192.168.56.1:1900",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 0,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:56503",
+            "raddr": "2a00:1450:4025:802::8a:443",
+            "status": "TIME_WAIT"
+        },
+        {
+            "pid": 4332,
+            "laddr": "::1:49669",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:52531",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:60461",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "0.0.0.0:64291",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:54081",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:49675",
+            "raddr": "2600:1901:1:4be:::443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:56879",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:52244",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 1568,
+            "laddr": ":::135",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 1252,
+            "laddr": "0.0.0.0:49664",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 12348,
+            "laddr": "192.168.1.16:53223",
+            "raddr": "51.104.15.253:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:53025",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 3968,
+            "laddr": "0.0.0.0:49668",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:58319",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:60857",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 13340,
+            "laddr": "127.0.0.1:3081",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:59371",
+            "raddr": "192.168.1.1:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": ":::64291",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:55664",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:64794",
+            "raddr": "98.85.171.213:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 3968,
+            "laddr": ":::49668",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 2156,
+            "laddr": "0.0.0.0:62446",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:50824",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 4,
+            "laddr": "192.168.56.1:139",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 15368,
+            "laddr": "192.168.1.16:63623",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 4456,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:49422",
+            "raddr": "2603:1020:206:d::1:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:60596",
+            "raddr": "2600:1901:1:292:::443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 1224,
+            "laddr": "0.0.0.0:49672",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:50659",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:53806",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:56535",
+            "raddr": "192.168.1.1:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 2156,
+            "laddr": "0.0.0.0:58119",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:58874",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:52979",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 0,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:52990",
+            "raddr": "2a04:4e42:4b::684:80",
+            "status": "TIME_WAIT"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:54602",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:56636",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:59427",
+            "raddr": "2600:1901:1:7c5:::443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 17204,
+            "laddr": "0.0.0.0:5353",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:60292",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:56634",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:58309",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:59810",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 13508,
+            "laddr": "192.168.56.1:2177",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 13508,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:2177",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:65105",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:51061",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:60946",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:56280",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 15368,
+            "laddr": "::1:1900",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 4344,
+            "laddr": "127.0.0.1:57368",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 3184,
+            "laddr": ":::49667",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 0,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:60202",
+            "raddr": "2a00:1450:4025:804::68:443",
+            "status": "TIME_WAIT"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:54217",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:65503",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 4,
+            "laddr": "192.168.1.16:137",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 17204,
+            "laddr": ":::5353",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 2156,
+            "laddr": ":::62446",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:56596",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:49362",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:55731",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 4,
+            "laddr": "192.168.1.16:138",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 1504,
+            "laddr": "127.0.0.1:49670",
+            "raddr": "127.0.0.1:49671",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:58369",
+            "raddr": "3.174.230.80:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 2060,
+            "laddr": "0.0.0.0:49666",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 4,
+            "laddr": ":::445",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 15368,
+            "laddr": "fe80::41ca:5b70:e47d:68ee:63619",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:57222",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "0.0.0.0:5353",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:60825",
+            "raddr": "2a06:98c1:3107::6812:2715:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 15368,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:63620",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:65078",
+            "raddr": "192.168.1.1:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:58808",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 4,
+            "laddr": "0.0.0.0:445",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:63420",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 15368,
+            "laddr": "127.0.0.1:1900",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 15368,
+            "laddr": "::1:63621",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 15368,
+            "laddr": "192.168.1.16:1900",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:56358",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:59256",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 4,
+            "laddr": "192.168.1.16:139",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:55826",
+            "raddr": "140.82.113.26:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 10472,
+            "laddr": "2a01:110f:421c:2400:6ddc:e7da:c85f:3b40:54329",
+            "raddr": "2a01:110f:421c:2400:8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 10472,
+            "laddr": "fe80::7f57:2731:dbc6:5b60:57870",
+            "raddr": "fe80::8efd:deff:feac:7fec:53",
+            "status": "FIN_WAIT2"
+        },
+        {
+            "pid": 4,
+            "laddr": "192.168.56.1:138",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 10472,
+            "laddr": "0.0.0.0:51470",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 15368,
+            "laddr": "127.0.0.1:63624",
+            "raddr": "",
+            "status": "NONE"
+        },
+        {
+            "pid": 1224,
+            "laddr": ":::49672",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 10472,
+            "laddr": "192.168.1.16:56808",
+            "raddr": "52.201.104.93:443",
+            "status": "ESTABLISHED"
+        },
+        {
+            "pid": 1076,
+            "laddr": ":::49665",
+            "raddr": "",
+            "status": "LISTEN"
+        },
+        {
+            "pid": 2156,
+            "laddr": "0.0.0.0:58640",
+            "raddr": "",
+            "status": "NONE"
+        }
+    ]
+}
