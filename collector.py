@@ -5,10 +5,6 @@ import datetime
 import json
 import time
 
-# -------------------------
-# Functions
-# -------------------------
-
 def get_system_info():
     return {
         'System': platform.system(),
@@ -77,9 +73,6 @@ def save_to_json(system_info, processes, suspicious, started, stopped, connectio
 
     print(f"JSON log saved to: {filepath}")
 
-# -------------------------
-# Main loop
-# -------------------------
 
 previous_processes = []
 
@@ -92,8 +85,6 @@ while True:
 
     save_to_json(system_info, processes, suspicious, started, stopped, connections)
 
-    # Set this snapshot as previous for next comparison
     previous_processes = processes
 
-    # Wait 60 seconds before next snapshot
     time.sleep(60)
